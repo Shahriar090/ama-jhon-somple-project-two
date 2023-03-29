@@ -1,0 +1,10 @@
+.cart{
+    background-color: darkorange;
+    padding: 25px;
+    color: white;
+
+}
+.cart p{
+    font-size: 18px;
+    font: bold;
+}
